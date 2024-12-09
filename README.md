@@ -2,4 +2,4 @@
 
 Hello world
 
-[Manifesto]()
+[Manifesto](./manifesto.md)
